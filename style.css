@@ -1,0 +1,30 @@
+section {
+    padding-top: 5rem;
+}
+
+#about {
+    background-color: #ffffff;
+}
+
+#projects {
+    padding-bottom : 2rem;
+}
+
+.jumbotron {
+    padding-top: 6rem;
+    background-color: #5e6f83;
+}
+
+footer {
+    background-color: #2e5b7a;
+    color: white;
+    text-align: center;
+    padding: 5px;
+    padding-top: 20px;
+}
+
+footer a {
+    text-decoration: none;
+    color: white;
+    font-weight: bold;
+}
